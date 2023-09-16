@@ -1,0 +1,19 @@
+h1{
+    text-shadow: 3px 3px 3px red;
+    text-shadow: 3px 3px 3px green;
+}
+.box{
+    border: 1px solid black;
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px;
+    color: red;
+}
+.scrollbox{
+    border: 1px solid black;
+    margin: 30px;
+    height: 150px;
+    width: 200px;
+    overflow: auto;
+}

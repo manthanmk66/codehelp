@@ -1,0 +1,9 @@
+h1{
+    font-size: 8rem;
+    font-family: 'Montserrat', sans-serif;
+    top: 5rem;
+    position: relative;
+    letter-spacing: 2px;
+    color: white;
+    text-shadow: 0 0 10px rgba(0,0,0,0.3);
+}

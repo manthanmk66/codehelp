@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color:azure;
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    min-height: 100vh;
+    
+    border-radius: 1.5em;
+    
+    
+}
+
+.cardbox{
+    margin: 1em 2rem;
+    max-width: 400px;
+    background-color: white;
+    border-radius: 1.5em;
+    border: 1px solid black ;
+  
+    
+    
+}
